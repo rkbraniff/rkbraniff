@@ -5,6 +5,11 @@
 - 📫 How to reach me I am mostly contactable through Discord, but email will be better for a professional setting. Also messaging me through Github is a good option, as I leave this tab open nearly constantly. Response times may vary depending on the day, the level of busy I am, and the time of day. I work nights mostly.
 - 😄 Pronouns: He/Him, They/Them, sometimes She/Her but not often, and won't be offended if you don't catch it that day
 - ⚡ Fun fact: Waterproof paint is a product of the CIA
+- WordPress Websites that I've created:
+-     https://meredithlindsey.net
+-     https://thetwistedpigment.com
+-     https://tiffanyballroomkc.org
+-     https://moongateexplorationco.com
 
 <!---
 rkbraniff/rkbraniff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
